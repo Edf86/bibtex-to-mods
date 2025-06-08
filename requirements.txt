@@ -1,2 +1,2 @@
-streamlit
-bibtexparser
+streamlit>=1.34        # any 1.x is fine; pin if you need strict reproducibility
+bibtexparser>=2.0      # middleware-based API used in the app
